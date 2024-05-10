@@ -7,7 +7,7 @@ terraform {
     }
   }
   cloud {
-    organization = "fnk2077-training "
+    organization = "fnk2077-training"
 
     workspaces {
       name = "devops-infra"
